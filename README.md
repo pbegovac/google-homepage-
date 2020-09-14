@@ -1,2 +1,2 @@
 #google-homepage-
-Responsive homepage practice
+Responsive homepage practice - CSS and HTML
